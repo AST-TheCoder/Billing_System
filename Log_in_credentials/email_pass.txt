@@ -1,0 +1,15 @@
+Admin
+email: tonmoy.cse5.bu@gmail.com
+pass: 0987
+
+Biller
+email: rahat.cse5.bu@gmail.com
+pass: 0987
+
+Consumer
+email: tanbir.cse6.bu@gmail.com
+pass: 0987
+
+Manager
+email: rafe@gmail.com
+pass: 0987
